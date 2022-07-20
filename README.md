@@ -8,6 +8,7 @@ Metamask should be installed and the ganache network on port 7545 should be adde
 
 # Run
 (in the root directory)
+
 ```truffle migrate```
 
 ```npm run dev```
